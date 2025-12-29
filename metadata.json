@@ -1,0 +1,5 @@
+{
+  "name": "SST Meeting Room Scheduler",
+  "description": "Smart meeting room reservation system with dynamic availability checking and Google Sheets compatibility.",
+  "requestFramePermissions": []
+}
